@@ -25,7 +25,7 @@
 # p= get_total_price(a,b,c)
 # print("p={0}".format(p))
 
-def get_max(a,b):
+def get_max(a,b):    #ok
     if(a>b):
         return a
     else:
